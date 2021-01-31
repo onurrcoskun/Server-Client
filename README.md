@@ -1,2 +1,2 @@
 # Server-Client
-**İstemci ve sunucunun haberleştiği bir java uygulamasıdır.**
+**İstemci ve Sunucunun haberleştiği bir java uygulamasıdır.**
