@@ -1,2 +1,2 @@
 # Server-Client
-** Server-Client uygulamasıdır.**
+**Server-Client uygulamasıdır.**
